@@ -35,7 +35,7 @@
 
 <p align="left">I'm Osni Pezzini Junior from Brazil<br>
   <br>
-  - 🔭 I’m working as senior developer<br>
+  - 🔭 I’m working as senior developer at Cosmogen Tecnologia<br>
   - 📚 I'm currently learning Java<br>
   - ⚡ In my free time I play some survival or strategy games
 </p>
